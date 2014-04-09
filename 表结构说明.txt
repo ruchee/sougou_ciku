@@ -1,0 +1,10 @@
+sougou_words.words
+
+id           词库ID
+cid          分类ID
+pid          上一级分类ID
+name         词库名
+file         文件名
+last_update  词库更新时间
+insert_time  爬取插入时间
+update_time  爬取更新时间
